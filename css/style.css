@@ -1,0 +1,88 @@
+.navbar {
+    margin: -10px;
+    padding: 0;
+    list-style-type: none;
+    border: 2px solid yellow;
+    border-radius: 30px;
+    width: auto;
+    background-color: #ff0000;
+}
+
+.navbar h1 {
+color: white;
+text-shadow: 1px 1px black;
+padding: 10px 50px;
+border-radius: 30px;
+text-align: left;
+}
+
+.navbar a {
+color: white;
+text-shadow: 1px 1px black;
+padding: 30px 100px;
+}
+
+.navbar a:hover {
+color: yellow;
+box-shadow: 0 0 26px black;
+background-color: #ff0e0e;
+}
+
+.h3 {
+    padding: 10px 120px 0px;
+    opacity: .5;
+}
+
+.table {
+    padding: 0;
+}
+
+.table img{
+    padding: 0 10px;
+    height: 350px;
+}
+
+.table p{
+    font-size: 30px;
+
+}
+.table q{
+    font-size: 20px;
+}
+
+.address {
+    padding: 50px;
+}
+
+.address p{
+    font-size: 30px;
+}
+
+.address ul{
+    font-size: 20px;
+}
+
+.div {
+    padding: 20px 50px;
+}
+
+.div h3 {
+    font-size: 35px;
+    opacity: .5;
+    text-align: center;
+}
+
+.div table {
+    border: double;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div img {
+    height: 300px;
+    margin-bottom: -4px;
+}
+
+.div li{
+    font-size: 20px;
+}
